@@ -1,0 +1,27 @@
+HTML notes
+
+    <header> tag creates a section that is a header. Typically you want this section 
+    to be your navigation bar and logo. Make it nice and shiny cause this is the 
+    first thing visitors will see. 
+                    
+                        Keywords: Straightforward, impactful!
+
+    <section> tag with an id of about. Personal introduction. Brief bio and a photo.
+
+    <article> or <div> tags separate and organize projects.
+
+    <section> tag with id of contact. Should be a simple form for potential customers 
+    to be able to contact you at.
+
+    <footer> section for additional information. Socials, copyright, relavent info 
+
+CSS notes 
+
+    Cascading Style Sheets
+
+    Styling 
+
+        fonts, colors, layout. 
+
+        Meant to be visually appealing
+    

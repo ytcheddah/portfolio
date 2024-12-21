@@ -1,0 +1,22 @@
+.background-image-1,
+.background-image-2 {
+    background-color: lightpink;
+    position: absolute;
+    top: 75px;
+    height: 550px;
+}
+
+.background-image-1,
+.background-image-2 {
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.background-image-1 {
+    left: 0;
+}
+
+.background-image-2 {
+    right: 0;
+}
